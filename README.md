@@ -5,5 +5,5 @@
 - 要是哪天[@trade](http://li.nu/attrade/gacha.php)不更新了，這個插件也就不能用了吧
 - 使用介面如下  
 
-<img src="https://raw.githubusercontent.com/Charl0tte19/SELFY_DOWNLOADER/master/UI.jpg" width="70%"/>
+<img src="https://raw.githubusercontent.com/Charl0tte19/SELFY_DOWNLOADER/master/UI.jpg" width="30%"/>
 

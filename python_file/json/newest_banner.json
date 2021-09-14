@@ -1,0 +1,10 @@
+{
+  "name": "com.my_extension.newest_banner",
+  "description": "My Application",
+  "path": "../newest_banner.bat",
+  "type": "stdio",
+  "allowed_extensions": ["kjojgdlaphleagbenoedjgmfgadbkcmd"],
+  "allowed_origins": [
+    "chrome-extension://kjojgdlaphleagbenoedjgmfgadbkcmd/"
+  ]
+}

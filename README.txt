@@ -1,0 +1,30 @@
+安裝說明：
+
+1. 請將extension_file載入chrome擴充功能頁面
+
+2. 請注意selfy downloader的id，將它複製下來
+
+3. 請到python_file中的所有.json檔案，將"allowed_extensions"、
+   "allowed_origins"的id部分，改成剛才複製的id
+
+4. 請執行setting_reg.bat(以系統管理員身分執行，用以新增reg files)
+
+5. 請至setting的so_far檔，輸入目前已經下載到的編號(默認是5630)
+
+6. 請到selfy downloader的選項頁面填入資料(對擴充功能按右鍵)，帳號密碼沒有就空著
+
+7. 恭喜！前置作業都完成了，以後就能輕鬆載Selfy的圖啦！
+
+(註：exe檔有可能被防毒軟體當作有毒，如果本身電腦有requests、beautifulsoup、lxml那些套件，也可以考慮將對應的.bat檔改成直接執行python檔，可參考send_range.bat檔)
+
+
+使用說明：
+
+1. 按最新的ガチャ以得到新的標題圖片
+
+2. 按圖片可到官網，按@trade可到資料庫
+
+3. 兩個Get鍵以及下載當前頁面鍵，僅能在「http://li.nu/attrade/gachalist.php?gacha=」為開頭的網站(也就是資料庫的各個ガチャ頁面使用
+
+4. 下載和下載至最新ガチャ鍵，在任何頁面都可使用
+

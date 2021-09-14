@@ -1,0 +1,10 @@
+{
+  "name": "com.my_extension.send_setting",
+  "description": "My Application",
+  "path": "../send_setting.bat",
+  "type": "stdio",
+  "allowed_extensions": ["kjojgdlaphleagbenoedjgmfgadbkcmd"],
+  "allowed_origins": [
+    "chrome-extension://kjojgdlaphleagbenoedjgmfgadbkcmd/"
+  ]
+}

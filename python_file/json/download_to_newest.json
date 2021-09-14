@@ -1,0 +1,10 @@
+{
+  "name": "com.my_extension.download_to_newest",
+  "description": "My Application",
+  "path": "../download_to_newest.bat",
+  "type": "stdio",
+  "allowed_extensions": ["kjojgdlaphleagbenoedjgmfgadbkcmd"],
+  "allowed_origins": [
+    "chrome-extension://kjojgdlaphleagbenoedjgmfgadbkcmd/"
+  ]
+}

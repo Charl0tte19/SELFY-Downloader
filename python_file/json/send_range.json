@@ -1,0 +1,10 @@
+{
+  "name": "com.my_extension.send_range",
+  "description": "My Application",
+  "path": "../send_range.bat",
+  "type": "stdio",
+  "allowed_extensions": ["kjojgdlaphleagbenoedjgmfgadbkcmd"],
+  "allowed_origins": [
+    "chrome-extension://kjojgdlaphleagbenoedjgmfgadbkcmd/"
+  ]
+}

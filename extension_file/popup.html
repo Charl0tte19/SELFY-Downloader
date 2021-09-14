@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Dream selfy 下載器</title>
+		<script src="jquery-3.5.1.min.js"></script>
+		<script src="bootstrap.bundle.min.js"></script>
+		<script src="popup.js"></script>
+		<link rel="stylesheet" href="bootstrap.min.css">
+		<link rel="stylesheet" href="popup.css">
+		
+	</head>
+	<body>
+		
+		<a href="#"><div class="title" role="alert" id="update">最新的ガチャ</div></a>
+		<div id="img-new">
+		  <a href="#"><img src="icon/newest.png" alt="最新"></a>
+		</div>	
+		<hr id="hr1">
+		<div class="title" role="alert">前往資料庫</div>
+		
+		<a href="#">
+			<div id="trade">
+				<span style="color:orange;">@</span>trad<span style="color:#ff4444;">e</span>
+			</div>
+		</a>
+		<hr>
+		<div class="title" role="alert">指定下載範圍(資料庫編號)</div>
+		
+		<div class="input-group input-group-sm number">
+		  <div class="input-group-prepend">
+			<span class="input-group-text get_num btn btn-light" id="f_btn">Get</span>
+		  </div>
+		  <input type="text" class="form-control fix-rounded-right" id="from" value="">
+		  <div id="range">~</div>
+		</div>	
+		<div class="input-group input-group-sm number2">
+		  <div class="input-group-prepend">
+			<span class="input-group-text get_num btn btn-light" id="t_btn">Get</span>
+		  </div>
+		  <input type="text" class="form-control fix-rounded-right" id="to" value="">
+		</div>
+		<button type="button" class="btn btn-light down_btn" id="download_range">下載</button>
+		<hr id="hr3">
+			<button type="button" class="btn btn-light page_btn" id="now">下載當前頁面</button>
+		<hr>
+			<button type="button" class="btn btn-light page_btn" id="download_new">下載至最新ガチャ</button>
+	</body>
+</html>

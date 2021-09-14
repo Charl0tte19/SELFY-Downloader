@@ -1,0 +1,10 @@
+{
+  "name": "com.my_extension.download_in_range",
+  "description": "My Application",
+  "path": "../download_in_range.bat",
+  "type": "stdio",
+  "allowed_extensions": ["kjojgdlaphleagbenoedjgmfgadbkcmd"],
+  "allowed_origins": [
+    "chrome-extension://kjojgdlaphleagbenoedjgmfgadbkcmd/"
+  ]
+}
